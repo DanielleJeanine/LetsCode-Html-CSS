@@ -1,0 +1,29 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    background: #132e4c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .box {
+        width: 200px;
+        height: 200px;
+        background-image: url(idea.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        border-radius: 50%;
+        }
+
+    .box:hover {
+        width: 200px;
+        height: 200px;
+        background-image: url(idea-hover.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        border-radius: 50%;
+        }
+
