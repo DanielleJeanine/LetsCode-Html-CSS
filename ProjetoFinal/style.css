@@ -1,0 +1,33 @@
+.perfil {
+    display: flex;
+    width: 20vw;
+    height: 30vh;
+    background-color: red;
+}
+
+.capa {
+    display: flex;
+    width: 100vw;
+    height: 30vh;
+    background-color: blue;
+}
+
+.menu{
+    display: flex;
+    width: 20vw;
+    height: 50vh;
+    background-color: yellow;
+}
+
+.container4 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.conteudo {
+    display: flex;
+    width: 77vw;
+    height: 80vh;
+    background-color: green;
+    
+}
